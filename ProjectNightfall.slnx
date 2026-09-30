@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProjectNightfall.vcxproj" Id="7459483d-ff81-4d85-a521-440619a56230" />
+</Solution>
