@@ -38,6 +38,11 @@ Deepak K
 
 GitHub: https://github.com/deepak-game-dev
 
+
+## Demo Video
+
+▶️ [Watch Project Nightfall — C++ Advanced Gameplay Systems Demo](https://youtu.be/xi0LnD6AzUE)
+
 ## Future Improvements
 
 Potential improvements include more sophisticated navigation, tactical enemy behavior, expanded mission objectives, and further gameplay optimization.
